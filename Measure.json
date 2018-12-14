@@ -1,0 +1,234 @@
+[
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:51:45"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:51:55"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:52:05"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:52:15"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:52:26"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:52:36"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:52:46"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:52:56"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:53:06"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:53:16"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:53:26"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:53:36"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:53:46"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:53:58"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:54:08"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:54:18"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:54:28"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:54:38"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:54:48"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:55:01"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:55:12"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:55:22"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:55:32"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:55:42"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:55:52"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:56:02"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:56:12"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:56:22"
+  },
+  {
+    "temp": 5.56,
+    "pressure": 1023.0,
+    "humidity": 87.0,
+    "minTemp": 3.0,
+    "maxTemp": 7.0,
+    "timeStamp": "23:56:32"
+  }
+]

@@ -1,0 +1,6674 @@
+[
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:13:51"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:14:01"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:14:11"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:14:22"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:14:32"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:14:42"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:14:52"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:15:02"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:15:12"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:15:22"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:15:32"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:15:42"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:15:52"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:16:02"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:16:12"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:16:22"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:16:33"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:16:43"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:16:53"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:17:03"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:17:13"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:17:23"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:17:33"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:17:43"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:17:53"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:18:03"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:18:13"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:18:23"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:18:33"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:18:44"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:18:54"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:19:05"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:19:15"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:19:28"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:19:39"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:19:51"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:20:01"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:20:12"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:20:23"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:20:33"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:20:45"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:20:56"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:21:07"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:21:17"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:21:28"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:21:38"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:21:49"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:22:00"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:22:10"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:22:20"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:22:30"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:22:40"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:22:50"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:23:00"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:23:10"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:23:20"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:23:30"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:23:41"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:23:51"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:24:01"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:24:11"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:24:21"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:24:31"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:24:41"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:24:52"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:25:02"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:25:13"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:25:23"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:25:33"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:25:43"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:25:55"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:26:07"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:26:17"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:26:27"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:26:39"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:26:49"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:26:59"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:27:10"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:27:20"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:27:30"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:27:41"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:27:51"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:28:02"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:28:12"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:28:22"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:28:32"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:28:42"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:28:53"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:29:03"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:29:13"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:29:24"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:29:34"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:29:44"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:29:55"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:30:05"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:30:18"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:30:29"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:30:39"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:30:50"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:31:00"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:31:10"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:31:23"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:31:33"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:31:43"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:31:53"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:32:05"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:32:15"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:32:29"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:32:41"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:32:55"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:33:08"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:33:19"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:33:29"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:33:39"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:33:51"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:34:02"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:34:15"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:34:30"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:34:40"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:34:51"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:35:02"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:35:14"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:35:26"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:35:39"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:35:50"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:36:03"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:36:13"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:36:25"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:36:35"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:36:46"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:36:57"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:37:07"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:37:17"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:37:29"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:37:39"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:37:50"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:38:00"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:38:11"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:38:23"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:38:34"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:38:44"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:38:54"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:39:05"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:39:15"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:39:25"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:39:35"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:39:45"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:39:55"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:40:05"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:40:15"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:40:25"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:40:35"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:40:46"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:40:56"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:41:06"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:41:16"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:41:26"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:41:36"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:41:46"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:41:56"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:42:06"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:42:16"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:42:26"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:42:37"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:42:49"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:42:59"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:43:09"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:43:21"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:43:33"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:43:46"
+  },
+  {
+    "temp": -35.0,
+    "pressure": 1014.0,
+    "humidity": 73.0,
+    "minTemp": -35.0,
+    "maxTemp": -35.0,
+    "timeStamp": "23:43:57"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:44:08"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:44:20"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:44:32"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:44:42"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:44:54"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:45:05"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:45:15"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:45:25"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:45:35"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:45:46"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:45:56"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:46:06"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:46:18"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:46:28"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:46:39"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:46:49"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:46:59"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:47:09"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:47:19"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:47:30"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:47:41"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:47:51"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:48:01"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:48:11"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:48:21"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:48:31"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:48:41"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:48:51"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:49:01"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:49:11"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:49:22"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:49:32"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:49:42"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:49:52"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:50:02"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:50:12"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:50:22"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:50:32"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:50:43"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:50:53"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:51:03"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:51:13"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:51:23"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:51:33"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:51:43"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:51:53"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:52:03"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:52:13"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:52:23"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:52:34"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:52:44"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:52:54"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:53:04"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:53:14"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:53:24"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:53:34"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:53:44"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:53:54"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:54:04"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:54:14"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:54:24"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:54:35"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:54:45"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:54:55"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:55:05"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:55:15"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:55:25"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:55:35"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:55:45"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:55:55"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:56:06"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:56:16"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:56:26"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:56:36"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:56:46"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:56:56"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:57:06"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:57:16"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:57:26"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:57:36"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:57:46"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:57:57"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:58:07"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:58:17"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:58:27"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:58:37"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:58:47"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:58:57"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:59:07"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:59:17"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:59:27"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:59:38"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:59:48"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "23:59:58"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:00:08"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:00:18"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:00:28"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:00:38"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:00:48"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:00:58"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:01:08"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:01:18"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:01:28"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:01:38"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:01:49"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:01:59"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:02:09"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:02:19"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:02:29"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:02:39"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:02:49"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:02:59"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:03:09"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:03:19"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:03:30"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:03:40"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:03:50"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:04:00"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:04:10"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:04:20"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:04:30"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:04:40"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:04:50"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:05:01"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:05:11"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:05:21"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:05:31"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:05:41"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:05:51"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:06:01"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:06:11"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:06:22"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:06:32"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:06:42"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:06:52"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:07:02"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:07:12"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:07:22"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:07:33"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:07:43"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:07:53"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:08:03"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:08:13"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:08:23"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:08:34"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:08:45"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:08:56"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:09:06"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:09:16"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:09:26"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:09:36"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:09:46"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:09:56"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:10:06"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:10:16"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:10:26"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:10:37"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:10:47"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:10:57"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:11:07"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:11:17"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:11:27"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:11:37"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:11:47"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:11:57"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:12:07"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:12:17"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:12:27"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:12:38"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:12:48"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:12:58"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:13:08"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:13:18"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:13:28"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:13:38"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:13:48"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:13:58"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:14:08"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:14:18"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:14:28"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:14:38"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:14:49"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:14:59"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:15:09"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:15:19"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:15:29"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:15:39"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:15:49"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:15:59"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:16:09"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:16:19"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:16:29"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:16:39"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:16:49"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:16:59"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:17:10"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:17:20"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:17:30"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:17:40"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:17:50"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:18:00"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:18:10"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:18:21"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:18:33"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:18:45"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:18:58"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:19:09"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:19:20"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:19:42"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:19:53"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:20:04"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:20:15"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:20:25"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:20:36"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:20:46"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:20:57"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:21:07"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:21:20"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:21:46"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:22:03"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:22:15"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:22:26"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:22:37"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:22:48"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:22:58"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:23:14"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:23:31"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:23:42"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:23:53"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:24:05"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:24:16"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:24:28"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:24:39"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:24:49"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:25:01"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:25:12"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:25:22"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:25:32"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:25:43"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:25:55"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:26:05"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:26:16"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:26:26"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:26:37"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:26:47"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:26:57"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:27:09"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:27:20"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:27:30"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:27:41"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:27:51"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:28:01"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:28:11"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:28:21"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:28:31"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:28:41"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:28:52"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:29:02"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:29:12"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:29:22"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:29:32"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:29:43"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:29:53"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:30:03"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:30:13"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:30:23"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:30:33"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:30:43"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:30:54"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:31:04"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:31:14"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:31:24"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:31:34"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:31:44"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:31:54"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:32:04"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:32:14"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:32:25"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:32:35"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:32:45"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:32:55"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:33:05"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:33:15"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:33:25"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:33:35"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:33:45"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:33:55"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:34:06"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:34:16"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:34:26"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:34:36"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:34:46"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:34:56"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:35:06"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:35:16"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:35:26"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:35:36"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:35:46"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:35:57"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:36:07"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:36:17"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:36:27"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:36:37"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:36:47"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:36:57"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:37:08"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:37:18"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:37:28"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:37:38"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:37:48"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:37:58"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:38:08"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:38:18"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:38:28"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:38:38"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:38:48"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:38:59"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:39:09"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:39:19"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:39:29"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:39:39"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:39:49"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:39:59"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:40:09"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:40:19"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:40:29"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:40:39"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:40:49"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:40:59"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:41:10"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:41:20"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:41:30"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:41:40"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:41:50"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:42:00"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:42:10"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:42:20"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:42:30"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:42:40"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:42:51"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:43:01"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:43:12"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:43:22"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:43:32"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:43:42"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:43:52"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:44:03"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:44:13"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:44:23"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:44:33"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:44:43"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:44:53"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:45:04"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 66.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:45:14"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:45:25"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:45:35"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:45:45"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:45:55"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:46:05"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:46:15"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:46:33"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:46:45"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:46:55"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:47:09"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:47:20"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:47:34"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:47:46"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:47:57"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:48:10"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:48:20"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:48:32"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:48:42"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:48:52"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:49:02"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:49:13"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:49:23"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:49:33"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:49:43"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:49:53"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:50:03"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:50:13"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:50:23"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:50:33"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:50:43"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:50:54"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:51:04"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:51:14"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:51:24"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:51:34"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:51:44"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:51:54"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:52:04"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:52:14"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:52:24"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:52:34"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:52:45"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:52:57"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:53:08"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:53:18"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:53:29"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:53:41"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:53:52"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:54:03"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:54:15"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:54:27"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:54:37"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:54:49"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:54:59"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:55:10"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:55:25"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:55:36"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:55:46"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:56:01"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:56:11"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:56:22"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:56:34"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:56:47"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:57:00"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:57:10"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:57:20"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:57:31"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:57:41"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:57:52"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:58:02"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:58:14"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:58:24"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:58:34"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:58:44"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:58:54"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:59:05"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:59:15"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:59:25"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:59:35"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:59:46"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "00:59:56"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:00:06"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:00:16"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:00:28"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:00:39"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:00:49"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:01:00"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:01:10"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:01:21"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:01:32"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:01:44"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:01:54"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:02:04"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:02:15"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:02:25"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:02:35"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:02:45"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:02:55"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:03:05"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:03:15"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:03:25"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:03:36"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:03:46"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:03:56"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:04:06"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:04:16"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:04:26"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:04:36"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:04:46"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:04:56"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:05:06"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:05:16"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:05:27"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:05:37"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:05:47"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:05:57"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:06:07"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:06:17"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:06:27"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:06:37"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:06:47"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:06:57"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:07:07"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:07:17"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:07:28"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:07:38"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:07:48"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:07:58"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:08:08"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:08:18"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:08:28"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:08:38"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:08:48"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:08:58"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:09:08"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:09:18"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:09:29"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:09:39"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:09:49"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:09:59"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:10:18"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:10:28"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:10:38"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:10:48"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:10:58"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:11:09"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:11:19"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:11:29"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:11:39"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:11:49"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:11:59"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:12:09"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:12:19"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:12:29"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:12:39"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:12:49"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:13:00"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:13:10"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:13:20"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:13:30"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:13:40"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:13:50"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:14:00"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:14:10"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:14:20"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:14:30"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:14:41"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:14:51"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:15:01"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:15:11"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:15:21"
+  },
+  {
+    "temp": -34.0,
+    "pressure": 1013.0,
+    "humidity": 73.0,
+    "minTemp": -34.0,
+    "maxTemp": -34.0,
+    "timeStamp": "01:15:31"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:15:41"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:15:51"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:16:02"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:16:12"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:16:22"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:16:32"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:16:42"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:16:52"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:17:02"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:17:12"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:17:22"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:17:32"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:17:43"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:17:53"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:18:03"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:18:13"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:18:23"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:18:33"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:18:43"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:18:53"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:19:03"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:19:13"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:19:23"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:19:33"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:19:43"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:19:54"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:20:04"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:20:14"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:20:24"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:20:34"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:20:44"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:20:54"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:21:04"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:21:35"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:21:45"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:21:55"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:22:05"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:22:16"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:22:26"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:22:39"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:22:49"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:22:59"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:23:10"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:23:20"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:23:31"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:23:41"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:23:51"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:24:01"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:24:11"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:24:21"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:24:31"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:24:41"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:24:51"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:25:01"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:25:11"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:25:21"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:25:32"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:25:42"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:25:52"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:26:02"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:26:12"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:26:22"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:26:32"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:26:42"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:26:52"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:27:03"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:27:13"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:27:23"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:27:33"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:27:43"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:27:53"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:28:03"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:28:13"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:28:23"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:28:33"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:28:44"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:28:54"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:29:04"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:29:14"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:29:24"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:29:34"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:29:44"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:29:54"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:30:04"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:30:14"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:30:28"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:30:38"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:30:48"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:30:58"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:31:08"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:31:18"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:31:28"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:31:38"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:31:48"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:31:58"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:32:08"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:32:18"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:32:28"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:32:39"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:32:49"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:32:59"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:33:09"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:33:19"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:33:29"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:33:39"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:33:49"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:33:59"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:34:09"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:34:40"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:34:50"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:35:01"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:35:11"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:35:21"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:35:31"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:35:41"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:35:51"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:36:01"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:36:22"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:36:32"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:36:44"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:37:15"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:37:25"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:37:35"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:37:45"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:37:55"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:38:05"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:38:15"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:38:25"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:38:35"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:38:45"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:38:55"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:39:05"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:39:15"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:39:25"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:39:35"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:39:45"
+  },
+  {
+    "temp": -33.0,
+    "pressure": 1013.0,
+    "humidity": 67.0,
+    "minTemp": -33.0,
+    "maxTemp": -33.0,
+    "timeStamp": "01:39:55"
+  }
+]
